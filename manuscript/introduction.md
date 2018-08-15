@@ -1,73 +1,73 @@
-# Introduction
+# Введение
 
-I'm a technical writer, and I've used a lot of writing tools over the course of my professional career. One of the most interesting tools I've encountered is a markup language called Markdown. 
+Я технический писатель, и в течение своей профессиональной карьеры я использовал множество инструментов для написания. Одним из наиболее интересных инструментов, с которыми я столкнулся, — язык разметки Markdown.
 
-My litmus test for a successful writing tool is whether using it can become second nature. Does writing with it feel natural? Or do I feel like I'm constantly fighting against it? I stop using tools that hinder me. Time is valuable, and I don't have the luxury of indulging things that squander that precious resource.
+Моей лакмусовой бумажкой для успешного письменного инструмента является — может ли он стать инструментом для привычного использования. Чувствует ли естественным процесс написания? Или я чувствую, что я постоянно борюсь с этим? Я перестаю использовать инструменты, которые мешают мне. Время дорого стоит, и я не могу позволить себе роскошь растрачивать этот драгоценный ресурс.
 
-Markdown passes the test with flying colors. Writing using Markdown just *feels right*. Since its introduction in 2004, millions of people have starting using it to write everything from notes to documents. It's one of the most successful markup languages of all time.
+Markdown проходит испытание временем с огромным успехом. Написание с использованием Markdown просто *восприниматься, как что-то правильное*. С момента своего появления в 2004 году миллионы людей начали использовать его для написания от заметок до документов. Это один из самых успешных языков разметки всех времен.
 
-Markdown has succeeded where other markup languages have failed because it strikes the right balance between power and simplicity. It's easy to learn and simple to use. Its tremendous success means it's ubiquitous enough to replace WYSIWYG editors on websites like Reddit and GitHub. But Markdown is also powerful enough to create documents, books, and technical documentation. Markdown is literally everywhere.  
+Markdown преуспел там, где другие языки разметки потерпели неудачу, потому что он обеспечивает необходимый баланс между предоставляемыми возможностями и простотой. Он легок в освоении и простой в использовании. Его огромный успех означает, что повсеместно распространенным явлением стало заменять WYSIWYG-редакторы на использование Markdown, например, на таких сайтах, как Reddit и GitHub. Но Markdown также достаточно мощный для того, чтобы создавать документы, писать книги и техническую документацию. Markdown буквально повсюду.
 
-I've been using Markdown for years now and I recommend it to everyone I know. There are lots of reasons why you should learn to write using Markdown, but one of the best reasons is that it's better than the alternatives. Learning Markdown means you can stop using all the subpar writing tools you've tolerated for years. It can also further your career. Believe it or not, knowing how to write using Markdown is a requirement for many jobs. 
+Я использую Markdown уже много лет, и рекомендую его всем, кого я знаю. Существует множество причин, по которым вам следует научиться писать с помощью Markdown, но одна из наиболее весомых причин — это то, что Markdown лучше, чем какие-либо альтернативы. Изучение Markdown означает, что вы можете прекратить использовать все посредственные инструменты для написания, которые вы терпели в течение многих лет. Это может также способствовать дальнейшему успеху в вашей карьере. Хотите верьте, хотите нет, но умение, как писать с помощью Markdown — это требование для многих рабочих специальностей.
 
-That brings us to this book. I couldn't find a comprehensive Markdown reference guide, so I decided to create one.
+Это подводит нас к этой книге. Я не нашел исчерпывающего справочного руководства Markdown, поэтому решил создать его.
 
-The *Markdown Guide* has humble beginnings. It started as a single webpage in 2017. After receiving positive feedback from friends and coworkers, I decided to expand the site. To my astonishment, the *Markdown Guide* was receiving hundreds of unique visitors a day by early 2018. At that point, it occurred to me that people might also appreciate the *Markdown Guide* in book format. 
+*Руководство по Markdown* имеет длинную историю. Он начался в виде единственной веб-страницы в 2017 году. Получив положительные отзывы от друзей и коллег, я решил расширить сайт. К моему удивлению, *Руководство по Markdown* получал сотни уникальных посетителей в день к началу 2018 года. В тот момент мне пришло в голову, что люди могут также оценить *Руководство по Markdown* в формате книги.
 
-I hope you enjoy reading this book as much as I've enjoyed writing it. Above all, I hope it helps you write using Markdown, and I hope using Markdown makes you a better writer.
+Надеюсь, вам понравится читать эту книгу так же, как мне нравилось писать ее. Прежде всего, я надеюсь, что она поможет вам писать с помощью Markdown, а также то, что использование Markdown сделает вас лучшим автором.
 
-## Where to Get This Book
+## Где получить книгу
 
-I want everyone to read the *Markdown Guide*. That's why it's [free to download](https://www.markdownguide.org/book) in PDF, MOBI, and EPUB format. I hope you share it with your friends and family. The vast majority of the book is also available online at <https://www.markdownguide.org>.
+Я хочу, чтобы все прочитали *Руководство по Markdown*. Вот почему вы [бесплатно можете скачать](https://www.markdownguide.org/book) ее в формате PDF, MOBI и EPUB. Надеюсь, вы поделитесь ею со своими друзьями и семьей. Значительное количество содержимое книги также доступно онлайн по URL-адресу <https://www.markdownguide.org>.
 
-## How to Read This Book
+## Как читать книгу
 
-This book is designed to be a comprehensive reference guide to the Markdown markup language. If you're new to Markdown, start at the beginning and read to the end. If you're an expert user, keep this book handy — you never know when you'll need to refer back to the [cheat sheet](#cheat-sheet).
+Эта книга предназначена служить в качестве всеобъемлющего справочного руководства по языку разметки Markdown. Если вы новичок в Markdown, начинайте с самого начала и читайте до самого конца. Если вы уже знакомы с Markdown, держите эту книгу всегда под рукой — вы никогда не знаете, когда вам потребуется будет вернуться на к [шпаргалке](# cheat-sheet).
 
-### Beginner Resources
+### Призыв к действию для начинающих
 
-The first two chapters of this book are designed exclusively for readers who are new to Markdown. [Getting Started](#getting-started) provides a quick introduction to Markdown. It shows you how to get going quickly with the Dillinger online Markdown editor, and it sheds light on some of the stuff going on behind the scenes. 
+Первые две главы этой книги предназначены исключительно для читателей, для которых Markdown в новинку. [Начало работы](#getting-started) даёт краткое введение в Markdown. Эта глава показывает вам, как можно быстро перейти к онлайн-редактору для Markdown — Dillinger, и она также проливает свет на кое-что, происходящее за кулисами.
 
-[Doing Things With Markdown](#doing-things-with-markdown) talks about what you can create using Markdown. It also presents some the applications you can use to write using Markdown.
+[Делаем что-то с помощью Markdown](#doing-things-with-markdown) рассказывает о том, что вы можете создать с помощью Markdown. В этой главе также представлены некоторые приложения, которые можно использовать для записи с использованием Markdown.
 
-### Syntax Examples
+### Примеры синтаксиса
 
-To help you learn how to write using Markdown, I've provided three sections for every syntax element in the chapters on [basic](#basic-syntax) and [extended syntax](#extended-syntax):
+Чтобы помочь вам научиться писать с помощью Markdown, я предоставил три раздела для каждого элемента синтаксиса в главах по [основному](#basic-syntax) и [углубленному синтаксису](#extended-syntax):
 
-- **Markdown:** This is what you'll type in your Markdown application. 
-- **HTML:** This is the HTML code that'll be generated by the Markdown processor. 
-- **Rendered Output:** This is what the reader will see. 
+- **Markdown:** Это то, что вы наберете в своем приложении, которое поддерживает Markdown.
+- **HTML:** Это HTML-код, который будет сгенерирован процессором Markdown.
+- **Отрисованный вывод:** Это то, что увидит читатель.
 
-To learn more about the Markdown to HTML conversion, see the section on [how Markdown works](#how-markdown-works).
+Подробнее о преобразовании Markdown в HTML читайте в разделе «[Как работает Markdown](#how-markdown-works)».
 
-### Asides 
+### Сноски 
 
-Extra bits of information are displayed with an "i" icon next to them, like this:
+Дополнительные элементы информации отображаются рядом с иконкой «i», например:
 
-I> Here's some extra information you might find helpful.
+I> Это дополнительная информация, которая может быть полезной для вас.
 
-Tips are displayed with a key icon next to them, like this:
+Подсказки отображаются рядом с иконкой «ключа», например:
 
-T> Here's a cool tip you might find useful. 
+T> Вот крутой совет, который может вам пригодиться.
 
-### Quirks
+### Странности
 
-Some of the Markdown and HTML code samples in this book "wrap" to the next line. In the situations where that happens, you'll see a `\` at the end of the first line of the code block. That `\` isn't actually part of the code. It's displayed there to indicate that the next line of the code block is actually part of the same line.
+Некоторые примеры Markdown и HTML-кода в этой книге «обертываются» на следующую строку. В ситуациях, когда это происходит, вы увидите `\` в конце первой строки блока кода. Этот символ `\` на самом деле не является частью кода. Он отображается для указания читателю, что следующая строка в блкое кода — это продолжение предыдущей строки.
 
-## Updates
+## Обновления
 
-This book is updated regularly. If you purchased the *Markdown Guide* and provided your email address, you'll automatically receive an email notification when a new version of the book is available. 
+Эта книга регулярно обновляется. Если вы приобрели *Руководство по Markdown* и предоставили свой адрес электронной почты, вы автоматически получите уведомление по электронной почте, когда будет доступна новая версия книги.
 
-## Contributing
+## Помощь книге
 
-This book is an open-source project, and your contributions are welcome. The [repository](https://github.com/mattcone/markdown-guide-book) is hosted on GitHub. See the [README](https://github.com/mattcone/markdown-guide-book/blob/master/README.md) for instructions and guidelines.
+Эта книга — проект с открытым исходным кодом, и ваше участие приветствуется. [Репозиторий](https://github.com/mattcone/markdown-guide-book) размещен на GitHub. Для получения инструкций и рекомендаций смотрите файл [README](https://github.com/mattcone/markdown-guide-book/blob/master/README.md).
 
-## Reporting Issues
+## Оповещение о проблемах
 
-Find something wrong? [Create an issue](https://github.com/mattcone/markdown-guide-book/issues) on GitHub and I'll fix it as soon as possible. Thank you!
+Найти что-то неладное? [Создать ишью](https://github.com/mattcone/markdown-guide-book/issues) на GitHub, и я исправлю это как можно скорее. Спасибо!
 
-## Acknowledgements
+## Благодарности
 
-I'm eternally grateful to Reem and our children, Finn and Simon. This book wouldn't exist without their love and support. 
+Я бесконечно благодарен Рим (Reem) и нашим детям, Финну (Finn) и Симону (Simon). Эта книга не существовала бы без их любви и поддержки.
 
-I greatly appreciate the help of AK Molteni, Gaylin Walli, Juan Torrez, Diana Lynch, and my parents, Steve Cone and Kathie Lathan, who were sounding boards for the website and book. Thanks to [Josh Ellingson](http://ellingson.cc/) for creating the amazing, jaw-dropping artwork on the cover. Last, but certainly not least, I'd like to thank *you* and everyone else who has read and contributed to the *Markdown Guide*. You've not only made this book possible, you've made it better!
+Я очень благодарен за помощь А.К. Молтени (AK Molteni), Гейлин Валли (Gaylin Walli), Хуану Торресу (Juan Torrez), Диане Линч (Diana Lynch) и моим родителей, Стиву Кони (Steve Con ) и Кэти Лэтан (Kathie Lathan), которые выступали в качестве рупоров для веб-сайта и книги. Благодарю [Джоша Эллингсона (Josh Ellingson)](http://ellingson.cc/) за создание потрясающую и сногсшибательную обложку для книги. Последним по порядку, но безусловно не по важности, я хотел бы поблагодарить *вас* и всех остальных, кто прочитал и внес свой вклад в *Руководство по Markdown*. Вы не только сделали эту книгу возможной, вы сделали ее лучше!
