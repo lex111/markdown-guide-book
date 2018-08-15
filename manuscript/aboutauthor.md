@@ -1,3 +1,3 @@
-# About the Author
+# Об авторе
 
-Matt Cone is a technical writer at [Fastly](https://www.fastly.com). He has over ten years of experience creating documentation for organizations like Linode and the U.S. Department of Health and Human Services. Matt's first book, *[Master Your Mac](https://www.amazon.com/Master-Your-Mac-Simple-Customize/dp/1593274068/)*, was published by No Starch Press. To get in touch with Matt, visit <http://mattcone.com>.
+Мэтт Кон (Matt Cone) — технический писатель в [Fastly](https://www.fastly.com). У него более чем десятилетний опыт создания документации для таких организаций, как Linode и Департамент здравоохранения и социальных служб США. Первая книга Мэтта, *[Master Your Mac](https://www.amazon.com/Master-Your-Mac-Simple-Customize/dp/1593274068/)*, была опубликована издательством No Starch Press. Чтобы связаться с Мэттом, посетите сайт <http://mattcone.com>.
